@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Feed & Entries",
+        "description": "Feed & Feed Entry Parsing"
+    },
+    {
+        "name": "Article Parser",
+        "description": "Article Parsing"
+    },
+    {
+        "name": "Query",
+        "description": "Query Feeds & Articles"
+    }
+]
